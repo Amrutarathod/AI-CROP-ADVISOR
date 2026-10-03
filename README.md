@@ -1,4 +1,4 @@
-🌱 AI Crop Advisor
+AI Crop Advisor
 
 This project uses machine learning to recommend suitable crops based on soil nutrients, pH, and rainfall.  
 
